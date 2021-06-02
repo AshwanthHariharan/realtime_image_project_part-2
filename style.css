@@ -1,0 +1,76 @@
+
+.heading {
+
+font-size: 23px;
+    
+width: 100%;
+    
+margin: 0;
+    
+box-shadow: 5px 5px 5px green;
+    
+}
+    
+.heading_div {
+    
+padding: 10px;
+    
+box-shadow: 5px 5px 5px grey;
+    
+background-color: white;
+    
+float: none;
+    
+color: black;
+    
+border-radius: 20px;
+    
+}
+    
+.heading_div2 {
+    
+font-size: 18px;
+    
+}
+
+.result_para_tag {
+
+font-size: 25px;
+    
+color: white;
+    
+text-align: center;
+    
+box-shadow: 5px 5px 5px green;
+    
+}
+    
+.copy_right_footer {
+    
+position: fixed;
+    
+line-height: 3;
+    
+bottom: 0;
+    
+width: 100%;
+    
+color: white;
+    
+background-color: grey;
+    
+text-align: center;
+    
+}
+
+canvas {
+
+border: 7px solid green;
+
+border-radius: 20px;
+
+box-shadow: 5px 5px 5px blue;
+
+margin-top: 147px;
+
+}
